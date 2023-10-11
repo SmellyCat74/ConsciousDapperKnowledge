@@ -62,7 +62,7 @@ if operator == "Multiplication":
   print(x,"*",y,"=",z)
 if operator == "Division":
   x=float(input("Please, enter a number:"))
-  y=float(input("Please, enter another number:"))
+  y=float(input("Please, enter another number: "))
   z = x / y
   print("The quotient of",x,"and",y,"is",z)
   print(x,"/",y,"=",z)
